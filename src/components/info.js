@@ -17,8 +17,6 @@ Once a student enters this University, the Institution takes the entire responsi
 Once the placement season commences, one can feel the vibrant environment on the campus. Talents go barely unrecognized in the SRM Institute of Science and Technology (formerly known as SRM University) as we leave no stone unturned, to place our students.</p>
      </div>
 
-
-<img src={img6} alt='img'/>
     </div>
   )
 }

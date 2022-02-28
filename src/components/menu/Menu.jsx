@@ -6,23 +6,30 @@ export default function Menu({open,setopen}) {
     <div className={"menu " + (open && 'active')}>
       <ul>
           <li onClick={()=>setopen(!open)}>
-              <a  href="#intro">Home</a>
+              <a  href="https://www.srmist.edu.in/placement/">Home</a>
           </li>
           
           <li onClick={()=>setopen(!open)}>
-              <a href="#portfolio">About Me</a>
+              <a href="https://www.srmist.edu.in/placement/overview">Career Center</a>
           </li>
 
           <li onClick={()=>setopen(!open)}>
-              <a href="#skills">Skills</a>
+              <a href="https://www.srmist.edu.in/placement/">Placement</a>
           </li>
 
           <li onClick={()=>setopen(!open)}>
-              <a href="#works">My Works</a>
+              <a href="https://www.srmist.edu.in/placement/recruiters">Recruiters</a>
           </li>
 
           <li onClick={()=>setopen(!open)}>
-              <a href="#contact">Contact Me</a>
+              <a href="https://www.srmist.edu.in/placement/dream/offers">Super Dream and Dream Offers</a>
+          </li>
+
+          <li onClick={()=>setopen(!open)}>
+              <a href="https://www.srmist.edu.in/placement/about-cdc">CDC</a>
+          </li>
+          <li onClick={()=>setopen(!open)}>
+              <a href="https://www.srmist.edu.in/placement/contacts">Contact</a>
           </li>
       </ul>
     </div>

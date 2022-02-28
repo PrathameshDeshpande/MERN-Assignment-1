@@ -49,15 +49,66 @@ flex-wrap: wrap;
 .small img{
 margin:35px;
   cursor: pointer;
-  animation-duration: 1s;
+  transition: transform .3s;
+  padding: 3px;
+  border : 5px solid crimson;
 }
 .big img{
   align-items: center;
   width: 600px;
+  padding: 5px;
+  transition: transform .3s;
+  border : 10px solid crimson;
 }
 
 .big{
   align-items: center;
   width:2000px;
   cursor: pointer;
+}
+
+.big img:hover{
+  transform: scale(1.05);
+}
+
+.small img:hover{
+  transform: scale(1.05);
+  }
+.tablepara{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 280px
+}
+.para1{
+  width:300px;
+  margin: 25px;
+  font-size: 25px;
+  border : 5px solid lightblue;
+  padding: 5px;
+}
+.para2{
+  width:300px;
+  margin: 25px;
+  font-size:25px;
+  border : 5px solid lightblue;
+  padding: 5px;
+}
+.para3{
+  width:300px;
+  margin: 25px;
+  font-size:25px;
+  border : 5px solid lightblue;
+  padding: 5px;
+}
+.para4{
+  width:300px;
+  margin: 25px;
+  font-size:25px;
+  border : 5px solid lightblue;
+  padding: 5px;
+}
+
+.btns{
+  margin-bottom: 0px;
+  align-items: center;
 }

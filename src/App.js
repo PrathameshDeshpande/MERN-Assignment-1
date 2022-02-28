@@ -9,7 +9,9 @@ import img4 from "./assests/img4.jpg"
 import img5 from "./assests/img5.jpg"
 import Tachyons from "tachyons"
 import Menu from "./components/menu/Menu"
+import Table from './components/Table';
 import { useState } from 'react';
+import img6 from "./assests/img6.jpg";
 
 function App() {
   const [menuopen,setmenuopen]=useState(false)
@@ -20,7 +22,11 @@ function App() {
   <Menu open={menuopen} setopen={setmenuopen}/>
   </div>
   <div>
-        <h2>Hello world</h2>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
   </div>
   <div className='card-f'>
   <div className='big tc'> <Card img={img1} /></div>
@@ -32,6 +38,8 @@ function App() {
   </div>
 </div>
 <Info/>
+<Table/>
+<img src={img6} alt='img'/>
 </div>
   );
 }
