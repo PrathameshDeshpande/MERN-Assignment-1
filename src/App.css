@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.card-f{
+display: flex;
+flex-wrap: wrap;
+}
+.small{
+  display:flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  margin-left: 125px;
+}
+.small img{
+margin:35px;
+  cursor: pointer;
+  animation-duration: 1s;
+}
+.big img{
+  align-items: center;
+  width: 600px;
+}
+
+.big{
+  align-items: center;
+  width:2000px;
+  cursor: pointer;
+}
