@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MERN-Assignment-1/static/css/main.a0dc5faa.css",
+    "main.js": "/MERN-Assignment-1/static/js/main.5ba277ad.js",
+    "static/js/787.2a0dcf13.chunk.js": "/MERN-Assignment-1/static/js/787.2a0dcf13.chunk.js",
+    "static/media/img6.jpg": "/MERN-Assignment-1/static/media/img6.167dde5f80c3b637fd9c.jpg",
+    "static/media/img1.jpg": "/MERN-Assignment-1/static/media/img1.cb228d7d35415de946d5.jpg",
+    "static/media/img3.jpg": "/MERN-Assignment-1/static/media/img3.b85fe2ee30549b1ba8b2.jpg",
+    "static/media/img4.jpg": "/MERN-Assignment-1/static/media/img4.9bd324026dffdae3396e.jpg",
+    "static/media/img5.jpg": "/MERN-Assignment-1/static/media/img5.51e233c8858ecf27a486.jpg",
+    "static/media/img2.jpg": "/MERN-Assignment-1/static/media/img2.9d7e7156e883ab67ed98.jpg",
+    "static/media/logo.png": "/MERN-Assignment-1/static/media/logo.0f0ff4b5e35bac91e264.png",
+    "index.html": "/MERN-Assignment-1/index.html",
+    "main.a0dc5faa.css.map": "/MERN-Assignment-1/static/css/main.a0dc5faa.css.map",
+    "main.5ba277ad.js.map": "/MERN-Assignment-1/static/js/main.5ba277ad.js.map",
+    "787.2a0dcf13.chunk.js.map": "/MERN-Assignment-1/static/js/787.2a0dcf13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0dc5faa.css",
+    "static/js/main.5ba277ad.js"
+  ]
+}
